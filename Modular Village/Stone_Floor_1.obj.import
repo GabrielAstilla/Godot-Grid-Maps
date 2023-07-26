@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stone_Floor_1.obj-55f4c185f95d3840c21c4b066d7385cd.mesh"
+
+[deps]
+
+files=[ "res://.import/Stone_Floor_1.obj-55f4c185f95d3840c21c4b066d7385cd.mesh" ]
+
+source_file="res://Modular Village/Stone_Floor_1.obj"
+dest_files=[ "res://.import/Stone_Floor_1.obj-55f4c185f95d3840c21c4b066d7385cd.mesh", "res://.import/Stone_Floor_1.obj-55f4c185f95d3840c21c4b066d7385cd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stone_Stairs_Railing.obj-9c1e5b72c99dce67ad6510b48eecb1fc.mesh"
+
+[deps]
+
+files=[ "res://.import/Stone_Stairs_Railing.obj-9c1e5b72c99dce67ad6510b48eecb1fc.mesh" ]
+
+source_file="res://Modular Village/Stone_Stairs_Railing.obj"
+dest_files=[ "res://.import/Stone_Stairs_Railing.obj-9c1e5b72c99dce67ad6510b48eecb1fc.mesh", "res://.import/Stone_Stairs_Railing.obj-9c1e5b72c99dce67ad6510b48eecb1fc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Modular Village/Prop_Crate_1.obj" type="ArrayMesh" id=1]
+
+[sub_resource type="BoxShape" id=1]
+
+[node name="RigidBody" type="RigidBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0705714, 0.0250962, -0.585258 )
+
+[node name="Prop_Crate_1" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.435641, 0, 0.583614 )
+mesh = ExtResource( 1 )
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+transform = Transform( 0.53896, 0, 0, 0, 1.057, 0, 0, 0, 0.577172, 0.437171, 0.37419, 0.571784 )
+shape = SubResource( 1 )

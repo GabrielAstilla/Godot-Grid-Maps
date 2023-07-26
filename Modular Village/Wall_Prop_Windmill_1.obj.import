@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Prop_Windmill_1.obj-7cb253c6ffe5384cec4555d08d0280b6.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Prop_Windmill_1.obj-7cb253c6ffe5384cec4555d08d0280b6.mesh" ]
+
+source_file="res://Modular Village/Wall_Prop_Windmill_1.obj"
+dest_files=[ "res://.import/Wall_Prop_Windmill_1.obj-7cb253c6ffe5384cec4555d08d0280b6.mesh", "res://.import/Wall_Prop_Windmill_1.obj-7cb253c6ffe5384cec4555d08d0280b6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

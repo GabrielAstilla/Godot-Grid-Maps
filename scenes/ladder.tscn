@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Modular Village/Prop_Ladder_1.obj" type="ArrayMesh" id=1]
+
+[sub_resource type="CylinderShape" id=1]
+radius = 0.975838
+
+[node name="RigidBody" type="RigidBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.515948 )
+
+[node name="Prop_Ladder_1" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.60372, 0, 0, 0, 1, -0.0870928, 0, 0.640689 )
+mesh = ExtResource( 1 )
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+transform = Transform( 0.763321, 0, 0, 0, 1, 0, 0, 0, 0.751093, -0.136959, 1.08245, 0.65172 )
+shape = SubResource( 1 )

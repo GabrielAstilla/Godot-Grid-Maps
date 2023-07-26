@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Boat_2.obj-9cd74edf1ad1e6494924cab41b35b78a.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Boat_2.obj-9cd74edf1ad1e6494924cab41b35b78a.mesh" ]
+
+source_file="res://Modular Village/Prop_Boat_2.obj"
+dest_files=[ "res://.import/Prop_Boat_2.obj-9cd74edf1ad1e6494924cab41b35b78a.mesh", "res://.import/Prop_Boat_2.obj-9cd74edf1ad1e6494924cab41b35b78a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

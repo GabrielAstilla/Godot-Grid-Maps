@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Well_Dirt.obj-8c174e118f527f3f91d5b251cb29d8ea.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Well_Dirt.obj-8c174e118f527f3f91d5b251cb29d8ea.mesh" ]
+
+source_file="res://Modular Village/Prop_Well_Dirt.obj"
+dest_files=[ "res://.import/Prop_Well_Dirt.obj-8c174e118f527f3f91d5b251cb29d8ea.mesh", "res://.import/Prop_Well_Dirt.obj-8c174e118f527f3f91d5b251cb29d8ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Roof_Accent_Rake_Eave.obj-cc7404f30f03e7a837ca917ce5f3a89e.mesh"
+
+[deps]
+
+files=[ "res://.import/Roof_Accent_Rake_Eave.obj-cc7404f30f03e7a837ca917ce5f3a89e.mesh" ]
+
+source_file="res://Modular Village/Roof_Accent_Rake_Eave.obj"
+dest_files=[ "res://.import/Roof_Accent_Rake_Eave.obj-cc7404f30f03e7a837ca917ce5f3a89e.mesh", "res://.import/Roof_Accent_Rake_Eave.obj-cc7404f30f03e7a837ca917ce5f3a89e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
